@@ -2,7 +2,7 @@
 
 namespace Kunstmaan\DashboardBundle\Helper\Google;
 
-use Google_Client as Client;
+use Google\Client;
 use Symfony\Component\Routing\Generator\UrlGeneratorInterface;
 use Symfony\Component\Routing\RouterInterface;
 
